@@ -1,0 +1,1 @@
+# wx-ibmcloud-solutions-scc
