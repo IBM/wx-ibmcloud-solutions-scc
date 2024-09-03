@@ -10,7 +10,7 @@
     * [1.7 Gen AI Application Repository](2_7-repo.md)
     * [1.8 PDF Artifacts](2_8-pdfs.md)
     * [1.9 Security and Compliance Center (SCC)](2_8-scc.md)
-    * [1.10 Watsonx Governance)](2_9-watsonx-governance.md)
+    * [1.10 Watsonx Governance](2_9-watsonx-governance.md)
 - 2️⃣ Observe and Remediate SCC Controls
     * [2.1 Observe and Remediate SCC Controls](3_1-observe-scc.md)
     * [2.2 Examine Scan Results for Noncompliant Resource](3_2-exam-scan-results.md)
