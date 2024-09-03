@@ -7,7 +7,7 @@ Let's see the RAG Pattern Gen AI application in action: Assume you're a prospect
 1. Switch to the **Applications (A)** tab and select **Open URL (B)** to launch the application. 
 ![alt text](../images/2.7.1.png)
 
-2. Open the virtual agent chat window in the bottom right-hand corner.
+2. Open the virtual agent chat window in the bottom right-hand corner **(A)**.
 ![alt text](../images/4-open-agent.png)
 
 3. Ask the virtual assistant questions. Here are some example questions to get you started.

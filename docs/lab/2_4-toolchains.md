@@ -11,7 +11,7 @@ The (CD) pipeline supports continuous deployment of the application, including e
 1. Expand the **Navigation menu (A)** and select **DevOps (B) > Toolchains (C)**
 ![alt text](../images/2.5.1.png)
 
-2. Make sure you on the right **Resource Group (A)** and correct **Location (B).** Select the **CI toolchain (C)**
+2. Make sure you are on the right **Resource Group (A)** and correct **Location (B).** Select the **CI toolchain (C)**
 ![alt text](../images/2.5.2.png)
 
 3. Select the **CI delivery pipeline (A)**
