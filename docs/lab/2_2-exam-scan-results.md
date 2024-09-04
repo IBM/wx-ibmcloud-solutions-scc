@@ -51,3 +51,6 @@ WRITE INTRODUCTION
     You should see a rule that has failed with the Description: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs (A)
 
     ![alt text](../images/2.2.8.a.png)
+
+
+EXPLAIN WHAT THE FAILED RULE IS AND HOW IT WILL BE FIXED

@@ -1,62 +1,35 @@
-# Provision new Bucket with HPCS and IP address 
+# Remediate Failed Rule
 
-In this section you will provision your own resource with correct configuration that will pass the control specifications observed in the previous section. In the next section you will use that resource in your own SCC scan to demonstrate compliance. In real life scenarios you may be changing the configuration of existing resources that were flagged in SCC scans to address the non-compliance issues, but the timing of the lab session does not allow us to re-run the SCC scans after resource configuration has been modified.
+We will now walk you through how to remediate this failed rule. 
 
-1. Navigate to Resource List > Storage > Select cloud-lab-cos- xx
+1. At the top of your screen find and expand the Manage menu (A) and select Context-based restrictions (B)
 
-Note: xx is replaced with your group number. 
+     ![alt text](../images/2.3.1.png)   
 
-![alt text](../images/3.3.1-scc.png)
+2. Select Rules (A)
 
-2. Select **Create bucket**
+    ![alt text](../images/2.3.2.png)
 
-![alt text](../images/3.3.2-scc.png)
+3. click Create 
 
-3. Select Customize your bucket 
+    ![alt text](../images/2.3.3.png)
 
-![alt text](../images/3.3.3-scc.png)
+4. Select Cloud Object Storage (A), click next (B)
 
-4. Configure your bucket
-* Unique bucket name: cloud-exercise-xx-bucket
-    * Note: xx is replaced with your group number. 
-* Resiliency: Regional 
-* Location: us-east
-* Storage class: Smart Tier
+    ![alt text](../images/2.3.4.png)
 
-![alt text](../images/3.3.4-scc.png)
+5. Make sure All (A) is checked for Service APIs, click Next (B)
 
-5. Under Service integrations, enable Encryption, select Hyper Protect Crypto Services and then click Use existing instance.
+![alt text](../images/2.3.5.png)
 
-![alt text](../images/3.3.5-scc.png)
+6. Select Specific resource (A), in the first drop down select Resource group (B), select the resource group that matches your group number(C). Click Review (D) and then Continue (E). 
 
-6. Make sure scc-demo-hpcs (us-east) is selected under Key Protect instance. Select the scc-demo-slz-key and then click Associate key.
+    ![alt text](../images/2.3.6.png)
 
-![alt text](../images/3.3.6-scc.png)
+7. Toggle Endpoints (A) to on and select Private (B). Check the box (C) for cloud-services network zones and hit add (D)
 
-7. Click Create bucket
+    ![alt text](../images/2.3.7.png)
 
-![alt text](../images/3.3.7-scc.png)
+8. Selected Enabled for Enforcement (A) and then click Create (B)
 
-8. Your bucket is now created 
-
-![alt text](../images/3.3.8-scc.png)
-
-9. Select Permissions to update the IP address filter
-
-![alt text](../images/3.3.9-scc.png)
-
-10. Expand Firewall
-
-![alt text](../images/3.3.10-scc.png)
-
-11. Click copy on Your current IP is and then click Add
-
-![alt text](../images/3.3.11-scc.png)
-
-12. Paste your IP address and click Add
-
-![alt text](../images/3.3.12-scc.png)
-
-13. Click Save all
-
-![alt text](../images/3.3.13-scc.png)
+    ![alt text](../images/2.3.8.png)
