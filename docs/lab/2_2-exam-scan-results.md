@@ -1,35 +1,53 @@
-# Examine Scan Results for Noncompliant Resource
+# Create Attachment and Run Scan
 
-First, we will observe a resource failing a specification check. We will use an existing resource and an SCC scan due to timing of the exercise. 
+WRITE INTRODUCTION 
 
-1. Navigate to Profiles and select **the profile (A)**
+1. Navigate to the Secuirty and Compliance Center Dashboard (A)
 
-![alt text](../images/3.2.1-scc.png)
+2. Make sure you are on the instance that corresponds to your group number
 
-2. Select **Attachments (A)** 
+3. Navigate to **Attachments (A)** and click **Create (B)**
 
-Attachments connect profiles and scopes to tell Security and Compliance Center what to evaluate. You then specify which parameters to examine. Attachments are checked daily or as needed.
+    ![alt text](../images/2.2.3.png)
 
-![alt text](../images/3.2.2-scc.png)
+4. Configure your attachment <br>
 
-3. Locate scope in the list. Next to the scope (the three dots), select View Scan results. 
+    a. Give your attachment a name (A), click next (B)
 
-Note: Please do not  hit run scan, we are only viewing.
+    ![alt text](../images/2.2.4.a.png)
 
-A scope defines which resources in your accounts are evaluated. It is defined when you create an attachment by selecting the parent account or resource group that you want to evaluate.
+    b. Select the AI ICT Guardrails 2.0 (A), click next (B)
 
-![alt text](../images/3.2.3-scc.png)
+    ![alt text](../images/2.2.4.b.png)
 
-4. Select View on the top (most recent) row 
+    c. Select your resource group for the scope (A), click next (B)
 
-![alt text](../images/3.2.4-scc.png)
+    ![alt text](../images/2.2.4-c.png)
 
-5. Under Highest priority resources, you will see a failure for Cloud Object Storage. Expand the error for more details. 
+    d. Schedule: none (A), click next (B)
 
-![alt text](../images/3.2.5-scc.png)
+    ![alt text](../images/2.2.4.d.png)
 
-6. The error is for an IP restriction on the Cloud Object Storage bucket.
+    e. Review and click Create (A)
 
-![alt text](../images/3.2.6-scc.png)
+    ![alt text](../images/2.2.4.e.png)
 
+5. Select the triple dot (A) on the right-hand side of your newly created attachment and select Run Scan (B). The scan will take about 5 minutes to run
+    
+    ![alt text](../images/2.2.5.png)
 
+6. When your scan is complete, select the triple dot (A) on the right-hand side of your attachment and select View Scan Results (B)
+
+    ![alt text](../images/2.2.6.png)
+
+7. Click your scan to open the report (A)
+
+    ![alt text](../images/2.2.7.png)
+
+8. View the failed rules at the bottom on the Overview page and locate the Component “Cloud Object Storage” (A) <br>
+
+    ![alt text](../images/2.2.8.png)
+
+    You should see a rule that has failed with the Description: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs (A)
+
+    ![alt text](../images/2.2.8.a.png)
