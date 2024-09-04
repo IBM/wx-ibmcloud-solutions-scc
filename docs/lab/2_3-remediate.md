@@ -10,7 +10,7 @@ We will now walk you through how to remediate this failed rule.
 
     ![alt text](../images/2.3.2.png)
 
-3. click Create 
+3. click Create (A)
 
     ![alt text](../images/2.3.3.png)
 
@@ -20,7 +20,7 @@ We will now walk you through how to remediate this failed rule.
 
 5. Make sure All (A) is checked for Service APIs, click Next (B)
 
-![alt text](../images/2.3.5.png)
+    ![alt text](../images/2.3.5.png)
 
 6. Select Specific resource (A), in the first drop down select Resource group (B), select the resource group that matches your group number(C). Click Review (D) and then Continue (E). 
 
