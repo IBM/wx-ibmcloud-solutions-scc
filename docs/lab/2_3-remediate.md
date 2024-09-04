@@ -10,7 +10,7 @@ We will now walk you through how to remediate this failed rule.
 
     ![alt text](../images/2.3.2.png)
 
-3. click Create (A)
+3. Click Create (A)
 
     ![alt text](../images/2.3.3.png)
 
@@ -30,7 +30,7 @@ We will now walk you through how to remediate this failed rule.
 
     ![alt text](../images/2.3.7.png)
 
-8. Selected Enabled for Enforcement (A) and then click Create (B)
+8. Select Enabled for Enforcement (A) and click Create (B)
 
     ![alt text](../images/2.3.8.png)
 
@@ -58,7 +58,7 @@ We will now walk you through how to remediate this failed rule.
     
     ![alt text](../images/2.3.13.png)
 
-14. Navigate through the other sections and save your changes. 
+14. Navigate through the other sections (Do not make any changes, just click next) and save your changes. 
 
 15. Rerun scan
 
