@@ -33,3 +33,14 @@ We will now walk you through how to remediate this failed rule.
 8. Selected Enabled for Enforcement (A) and then click Create (B)
 
     ![alt text](../images/2.3.8.png)
+
+
+2. Go to your attachment, open the triple dot menu and select Edit 
+3. Click next until you are on the section for Profile
+4. In the search bar, type in “Cloud Object Storage”
+5. Find the rule: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs, and expand it 
+6. In the Allowed IPs (CBR, Firewall), paste in the following list of IP addresses:<br> 
+
+        ['4.0.0.0/6', '8.0.0.0/5', '16.0.0.0/4', '32.0.0.0/3', '64.0.0.0/2', '128.0.0.0/1']
+
+7. Navigate through the other sections and save your changes. 
