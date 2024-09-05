@@ -2,7 +2,7 @@
 
 We will now walk you through how to remediate this failed rule. 
 
-1. At the top of your screen find and expand the **Navigation menu (A)** and select **Context-based restrictions (B)**.
+1. At the top of the screen find and expand the **Navigation menu (A)** and select **Context-based restrictions (B)**.
 
      ![alt text](../images/2.3.1.png)   
 
@@ -46,7 +46,7 @@ We will now walk you through how to remediate this failed rule.
 
     ![alt text](../images/2.3.11.png)
 
-12. Click Next until you are on the section for Profile
+12. Click Next until you are on the section for Profile .... ADD A SCREENSHOT
 
 13. In the **search bar (A)**, paste in:
 

@@ -2,7 +2,7 @@
 
 WRITE INTRODUCTION 
 
-1. Navigate to the Secuirty and Compliance Center Dashboard (A)
+1. Navigate to the Secuirty and Compliance Center Dashboard (A) ... ADD A SCREENSHOT
 
 2. Make sure you are on the instance that corresponds to your group number
 
@@ -12,23 +12,23 @@ WRITE INTRODUCTION
 
 4. Configure your attachment <br>
 
-    a. Give your attachment a name (A), click next (B)
+    a. Give your attachment a name **(A)**, click **Next (B)**
 
     ![alt text](../images/2.2.4.a.png)
 
-    b. Select the AI ICT Guardrails 2.0 (A), click next (B)
+    b. Select the **AI ICT Guardrails 2.0 (A)** profile, click **Next (B)**
 
     ![alt text](../images/2.2.4.b.png)
 
-    c. Select your resource group for the scope (A), click next (B)
+    c. Select your resource group for the **scope (A)**, click **Next (B)**
 
     ![alt text](../images/2.2.4-c.png)
 
-    d. Schedule: none (A), click next (B)
+    d. Schedule: **none (A)**, click **Next (B)**
 
     ![alt text](../images/2.2.4.d.png)
 
-    e. Review and click Create (A)
+    e. Review and click **Create (A)**
 
     ![alt text](../images/2.2.4.e.png)
 
