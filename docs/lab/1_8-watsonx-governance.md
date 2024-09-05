@@ -5,6 +5,6 @@ Watsonx Governance accelerates responsible, transparent and explainable AI workf
 * Manage risk and protect reputation by automating workflows to ensure quality and better detect bias and drift. 
 * Govern across the AI lifecycle. Automate and consolidate tools, applications and platforms. Capture metadata at each stage and support models built and deployed in 3rd party tools.  
 
-![alt text](../images/watsonx-gov-1.png)
+![alt text](../images/1.8.1.png)
 
-![alt text](../images/watsonx-gov-2.png)
+![alt text](../images/1.8.2.png)

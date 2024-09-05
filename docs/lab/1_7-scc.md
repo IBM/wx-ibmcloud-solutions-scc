@@ -4,7 +4,7 @@ The Security and Compliance Center (SCC) enforces policies through code, deploys
 
 1. Expand the **Navigation menu (A)** and then select **Security and Compliance (B) > Dashboard (C)**
 
-![alt text](../images/2.10.1.png)
+![alt text](../images/1.7.1.png)
 
 ## SCC Scans
 
@@ -15,7 +15,9 @@ Upon entering the dashboard, you're presented with three graphical representatio
 
 This streamlined approach to managing and analyzing your scan data enables you to make informed decisions to enhance the security and compliance of your environment with SCC.
 
-![alt text](../images/ssc-dashboard.png)
+[comment]: <> (1.7.1-a)
+
+![alt text](../images/1.7.1-a.png)
 
 ### Controls and Control libraries 
 **Controls**
@@ -24,19 +26,25 @@ A technical, administrative, or physical safeguard that is designed to meet a se
 **Control libraries**
 A collection of predefined or custom controls. Control libraries show all the controls in your accounts that are available to be evaluated. A library is helpful for organizing and versioning of your controls. A library is structured as follows.
 
-![alt text](../images/scc-control.png)
+[comment]: <> (1.7.1-b)
+
+![alt text](../images/1.7.1-b.png)
 
 **Profiles**
 A profile is a group of controls that are related to a specific compliance objective.
 
 Although very similar in structure to a control library, a profile can be attached to a set of resources and be evaluated. When you create the attachment, you can set the parameters that define the way the evaluation is done.
 
-![alt text](../images/scc-profile.png)
+[comment]: <> (1.7.1-c)
+
+![alt text](../images/1.7.1-c.png)
 
 ### AI Workload ICT Guardrails profile
 
 This profile provides a Generative AI Controls Framework: A safe, secure, and compliant AI adoption approach which represents a comprehensive approach to identifying Gen AI specific risks and associated controls at each layer of the AI tech stack to build, deploy, and manage AI systems that are secure, trustworthy, and transparent.
 
-![alt text](../images/ai-guard-profile.png)
+[comment]: <> (1.7.1-d)
+
+![alt text](../images/1.7.1-d.png)
 
 For more details, see: [Generative AI Controls Framework: A safe, secure, and compliant AI adoption approach](https://ibm.biz/genaiwhitepaper)

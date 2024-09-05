@@ -1,23 +1,21 @@
 # Navigate to the RAG Pattern Title
 
 In the first half of the lab, participants will examine the various cloud resources that have been deployed by the DA. This will include identifying and understanding the components and services that make up the deployed architecture, providing insight into how these resources integrate to form a secure and compliant generative AI (Gen AI) solution.
-
 ______
-
 
 Retrieval augmented generation (RAG) is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources knowledge to supplement the LLM’s internal representation of information.
 
 1.	On the Dashboard of the Cloud account, first **make sure you are on the right account (A).** When ready, select **Catalog (B).**
 
-![alt text](../images/2.1.1.png)
+![alt text](../images/1.1.1.png)
 
 2.	Switch to the **Community registry (A).**
 
-![alt text](../images/2.1.2.png)
+![alt text](../images/1.1.2.png)
 
 3.	Find and select the **Retrieval Augmented Generation Pattern** 
 
-![alt text](../images/1-select-RAG.png)
+![alt text](../images/1.1.3.png)
 
 Scroll down and take a minute to review the **Architecture Overview** tab. This will give you an even deeper understanding of what is deployed.
 
