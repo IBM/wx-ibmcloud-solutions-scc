@@ -7,8 +7,8 @@
     * [1.4 Toolchains](1_4-toolchains.md)
     * [1.5 Code Engine](1_5-code-engine.md)
     * [1.6 Launch Sample Application](1_6-launch-app.md)
-    * [1.9 Security and Compliance Center (SCC)](1_7-scc.md)
-    * [1.10 Watsonx Governance](1_8-watsonx-governance.md)
+    * [1.7 Security and Compliance Center (SCC)](1_7-scc.md)
+    * [1.8 Watsonx Governance](1_8-watsonx-governance.md)
 - 2️⃣ Observe and Remediate SCC Controls
     * [2.1 Overview](2_1-overview.md)
     * [2.2 Create Attachment and Run Scan](2_2-exam-scan-results.md)
