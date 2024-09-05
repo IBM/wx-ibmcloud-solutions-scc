@@ -58,8 +58,4 @@ We will now walk you through how to remediate this failed rule.
     
     ![alt text](../images/2.3.13.png)
 
-14. Navigate through the other sections (Do not make any changes, just click next) and save your changes. 
-
-15. Rerun scan
-
-    ![alt text](../images/2.3.15.png)
+14. On the Scope page, click Next. Then, on the Scan settings page, click Next. Click Save.
