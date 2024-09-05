@@ -2,7 +2,9 @@
 
 WRITE INTRODUCTION 
 
-1. Navigate to the Secuirty and Compliance Center Dashboard (A) ... ADD A SCREENSHOT
+1. On the **Navigation menu (A)**, hover over **Security and Compliance Center (B)**, and select **Dashboard (C)**.
+
+    ![alt text](../images/2.2.1.png)
 
 2. Make sure you are on the instance that corresponds to your group number
 

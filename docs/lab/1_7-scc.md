@@ -9,7 +9,7 @@ The Security and Compliance Center (SCC) enforces policies through code, deploys
 ## SCC Scans
 
 Upon entering the dashboard, you're presented with three graphical representations of your scan data.
-* The Overview tab showcases your success rate and any drift in results over your chosen timeframe.
+* The Overview tab showcases your success rate and any drift in results over your chosen time frame.
 * The Controls tab provides a concise overview of each control's compliance status at the time of scanning.
 * The Resources tab offers detailed results for each specific resource evaluated.
 
