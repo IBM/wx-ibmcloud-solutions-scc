@@ -32,23 +32,23 @@ WRITE INTRODUCTION
 
     ![alt text](../images/2.2.4.e.png)
 
-5. Select the triple dot (A) on the right-hand side of your newly created attachment and select Run Scan (B). The scan will take about 5 minutes to run
+5. Select the **triple dot (A)** on the right-hand side of your newly created attachment and select **Run Scan (B)**. The scan will take about 5 minutes to run
     
     ![alt text](../images/2.2.5.png)
 
-6. When your scan is complete, select the triple dot (A) on the right-hand side of your attachment and select View Scan Results (B)
+6. When your scan is complete, select the **triple dot (A)** on the right-hand side of your attachment and select **View Scan Results (B)**.
 
     ![alt text](../images/2.2.6.png)
 
-7. Click your scan to open the report (A)
+7. Click your scan to open the report **(A)**
 
     ![alt text](../images/2.2.7.png)
 
-8. View the failed rules at the bottom on the Overview page and locate the Component “Cloud Object Storage” (A) <br>
+8. View the failed rules at the bottom on the Overview page and locate the Component ***Cloud Object Storage*** **(A)** <br>
 
     ![alt text](../images/2.2.8.png)
 
-    You should see a rule that has failed with the Description: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs (A)
+    You should see a rule that has failed with the Description: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs **(A)**
 
     ![alt text](../images/2.2.8.a.png)
 
