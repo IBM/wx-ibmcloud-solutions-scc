@@ -46,7 +46,7 @@ We will now walk you through how to remediate this failed rule.
 
     ![alt text](../images/2.3.11.png)
 
-12. Click Next until you are on the section for Profile .... ADD A SCREENSHOT
+12. Click Next until you are on the section for Profile. 
 
 13. In the **search bar (A)**, paste in:
 
