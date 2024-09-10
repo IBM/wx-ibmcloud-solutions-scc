@@ -55,4 +55,4 @@ WRITE INTRODUCTION
     ![alt text](../images/2.2.8.a.png)
 
 
-EXPLAIN WHAT THE FAILED RULE IS AND HOW IT WILL BE FIXED
+The reason this rule is failing is because the context-based restrictions rule is not configured with private endpoint-allowed IP addresses. We will now go through the steps on how to remediate this issue. 
