@@ -1,7 +1,7 @@
 - [🔎 Overview](README.md)
 - [🏎️ Getting started!](getting-started.md)
 - 1️⃣ Understand Deployed Resources
-    * [1.1 RAG Pattern Title](1_1-nav-rag-tile.md)
+    * [1.1 RAG Pattern Tile](1_1-nav-rag-tile.md)
     * [1.2 Deployment Process](1_2-deployment-process.md)
     * [1.3 View Deployed Project](1_3-view-deployed-project.md)
     * [1.4 Toolchains](1_4-toolchains.md)
