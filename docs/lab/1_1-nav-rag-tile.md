@@ -23,7 +23,7 @@ Scroll down and take a minute to review the **Architecture Overview** tab. This 
 
 This Deployable Architecture provides a robust, flexible, and secure framework for deploying RAG-based AI applications. It leverages the power of serverless technologies, advanced AI and data platforms, integrated DevSecOps practices, and stringent security and compliance measures to deliver an efficient deployment solution. The ability to customize and rapidly deploy the architecture within hours makes it an asset for any organization looking to implement AI-driven solutions. Below is a high-level view of the DA and what is deployed.
 
-![alt text](../images/rag-stack.svg)
+![alt text](../images/rag-stack.png)
 
 ### Expanded Overview of the DA
 
