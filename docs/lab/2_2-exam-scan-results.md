@@ -1,6 +1,6 @@
 # Create Attachment and Run Scan
 
-WRITE INTRODUCTION 
+In this section, you will configure an attachment in the Security and Compliance Center (SCC). This scan will provide a report highlighting any resources that are not compliant with the enforced security and compliance policies, based on the IBM Cloud Framework for Financial Services and AI ICT Guardrails profiles. The goal is to identify which resource needs attention before moving on to resolving these issue.
 
 1. On the **Navigation menu (A)**, hover over **Security and Compliance Center (B)**, and select **Dashboard (C)**.
 
