@@ -12,6 +12,7 @@ Participants gained a deeper understanding of the complexities involved in deplo
 
 
 Please join us for our second session Automated generative AI deployments on IBM Cloud - Deployable Architecture (1101) which will take place on Thursday October 24th at 9:00 AM <br>
+
 [Link](https://reg.tools.ibm.com/flow/ibm/techxchange24/sessioncatalog/page/sessioncatalog?tab.sessioncatalogtabs=option_1601178495160&search=1101&search.activitytype=1708396556328001xAsn) to add to your schedule. 
 
 
