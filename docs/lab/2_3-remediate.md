@@ -50,9 +50,9 @@ We will now walk you through how to remediate this failed rule.
 
 13. In the **search bar (A)**, paste in:
 
-        Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs
+    Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs. Expand the rule **(B)**.
 
-    In the Allowed IPs (CBR, Firewall), delete the IP address that is there and paste in the following list of IP addresses **(B)**:<br> 
+    In the Allowed IPs (CBR, Firewall), delete the IP address that is there and paste in the following list of IP addresses **(C)**:<br> 
 
         ['4.0.0.0/6', '8.0.0.0/5', '16.0.0.0/4', '32.0.0.0/3', '64.0.0.0/2', '128.0.0.0/1']
     
