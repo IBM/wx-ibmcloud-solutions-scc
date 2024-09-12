@@ -9,6 +9,7 @@ WRITE INTRODUCTION
 2. Make sure you are on the instance that corresponds to your group number
 
 3. Navigate to **Attachments (A)** and click **Create (B)**
+    Attachments connect profiles and scopes to tell Security and Compliance Center what to evaluate. You then specify which parameters to examine. 
 
     ![alt text](../images/2.2.3.png)
 
