@@ -1,53 +1,16 @@
-# Create Attachment and Run Scan
+# View Scan Results
 
-In this section, you will configure an attachment in the Security and Compliance Center (SCC). This scan will provide a report highlighting any resources that are not compliant with the enforced security and compliance policies, based on the IBM Cloud Framework for Financial Services and AI ICT Guardrails profiles. The goal is to identify which resource needs attention before moving on to resolving these issue.
+In this section, you will first view a scan that has already been ran on your environment. This scan will provide a report highlighting any resources that are not compliant with the enforced security and compliance policies, based on the IBM Cloud Framework for Financial Services and AI ICT Guardrails profiles. The goal is to identify which resource needs attention before moving on to resolving these issue.
 
-1. On the **Navigation menu (A)**, hover over **Security and Compliance (B)**, and select **Dashboard (C)**.
-
-    ![alt text](../images/2.2.1.png)
-
-2. Make sure you are on the instance that corresponds to your group number
-
-3. Navigate to **Attachments (A)** and click **Create (B)** <br>
-    Attachments connect profiles and scopes to tell Security and Compliance Center what to evaluate. You then specify which parameters to examine. 
-
-    ![alt text](../images/2.2.3.png)
-
-4. Configure your attachment <br>
-
-    a. Give your attachment a name **(A)**, click **Next (B)**
-
-    ![alt text](../images/2.2.4.a.png)
-
-    b. Select the **AI ICT Guardrails 2.0 (A)** profile, click **Next (B)**
-
-    ![alt text](../images/2.2.4.b.png)
-
-    c. Select your resource group for the **scope (A)**, click **Next (B)**
-
-    ![alt text](../images/2.2.4-c.png)
-
-    d. Schedule: **none (A)**, click **Next (B)**
-
-    ![alt text](../images/2.2.4.d.png)
-
-    e. Review and click **Create (A)**
-
-    ![alt text](../images/2.2.4.e.png)
-
-5. Select the **triple dot (A)** on the right-hand side of your newly created attachment and select **Run Scan (B)**. The scan will take about 5 minutes to run
-    
-    ![alt text](../images/2.2.5.png)
-
-6. When your scan is complete, select the **triple dot (A)** on the right-hand side of your attachment and select **View Scan Results (B)**.
+1. View your scan results. Select the **triple dot (A)** on the right-hand side of your attachment and select **View Scan Results (B)**.
 
     ![alt text](../images/2.2.6.png)
 
-7. Click your scan to open the report **(A)**
+2. Click your scan to open the report **(A)**
 
     ![alt text](../images/2.2.7.png)
 
-8. View the failed rules at the bottom on the Overview page and locate the Component ***Cloud Object Storage*** **(A)** <br>
+3. View the failed rules at the bottom on the Overview page and locate the Component ***Cloud Object Storage*** **(A)** <br>
 
     ![alt text](../images/2.2.8.png)
 
