@@ -11,14 +11,14 @@ We will now walk you through how to remediate this failed rule.
     ![alt text](../images/2.3.2.png)
 
 3. Identify your rule based off of your group number **(A)**. 
-    Example: COS endpoint restriction for rag-lab-##
+    Example: COS endpoint restriction for rag-lab-## <br>
 
-4. Click the **triple dot (A)** to the right of your rule and select **Edit (B)**.
+    ADD SCREENSHOT 
 
-5. Click on **Describe your rule (A)**.
+4. Click the **triple dot (A)** to the right of your rule and select **Edit (B)**. <br>
+
+    ADD SCREENSHOT 
+
+5. Click on **Describe your rule (A)**. Select **Enabled (B)** under Enforcement. Click Save **(C)**
+
     ![alt text](../images/2.3.8.png)
-
-6. Select **Enabled (A)** under Enforcement. 
-
-7. Save and Exit 
-
