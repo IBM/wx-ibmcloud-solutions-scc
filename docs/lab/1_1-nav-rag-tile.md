@@ -5,7 +5,7 @@ ______
 
 Retrieval augmented generation (RAG) is an AI framework for improving the quality of LLM-generated responses by grounding the model on external sources knowledge to supplement the LLM’s internal representation of information.
 
-1.	On the Dashboard of the Cloud account, first **make sure you are on the right account (A).** When ready, select **Catalog (B).**
+1.	On the Dashboard of the Cloud account, first make sure you are on the **itz-enablement-012 account (A).** When ready, select **Catalog (B).**
 
 ![alt text](../images/1.1.1.png)
 
@@ -45,4 +45,4 @@ AI and Data Platform
 
 Security and Compliance
 * **Encryption and Key Management:** Secure data with Key Protect and Secret Manager.
-* **Compliance and Monitoring:** Use Activity Tracker, Logging, Monitoring, and SCC for compliance and monitoring.
+* **Compliance and Monitoring:** Use Logging, Monitoring, and SCC for compliance and monitoring.
