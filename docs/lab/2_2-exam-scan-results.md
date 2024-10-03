@@ -7,23 +7,23 @@ In this section, you will first view a scan that has already been ran on your en
     ![alt text](../images/2.2.1.png)
 
 2. Select **Attachments (A)**. 
-    ADD SCREENSHOT
+![alt text](../images/2.2.2-n.png)
 
 3. View your scan results. Select the **triple dot (A)** on the right-hand side of your attachment and select **View Scan Results (B)**.
 
-    ![alt text](../images/2.2.6.png)
+    ![alt text](../images/2.2.3-n.png)
 
 4. Click your scan to open the report **(A)**
 
-    ![alt text](../images/2.2.7.png)
+    ![alt text](../images/2.2.4-n.png)
 
 5. View the failed rules at the bottom on the Overview page and locate the Component ***Cloud Object Storage*** **(A)** <br>
 
-    ![alt text](../images/2.2.8.png)
+    ![alt text](../images/2.2.5-n.png)
 
     You should see a rule that has failed with the Description: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs **(A)**
 
-    ![alt text](../images/2.2.8.a.png)
+    ![alt text](../images/2.2.5-rule-n.png)
 
 
 The reason this rule is failing is because the context-based restrictions rule is not configured with private endpoint-allowed IP addresses for Cloud Object Storage. We will now go through the steps on how to remediate this issue. 
