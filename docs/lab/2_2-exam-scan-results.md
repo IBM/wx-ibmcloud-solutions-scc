@@ -17,7 +17,8 @@ In this section, you will first view a scan that has already been ran on your en
 
     ![alt text](../images/2.2.4-n.png)
 
-5. In the list of noncompliant resources, find the project that matches your group number. For example **rag-lab-00-RAG-sample-project (A)**. <br>
+5. In the list of noncompliant resources, find the project that matches your group number. <br>
+For example **rag-lab-00-RAG-sample-project (A)**. <br>
 
     ![alt text](../images/2.2.5-n.png)
 
