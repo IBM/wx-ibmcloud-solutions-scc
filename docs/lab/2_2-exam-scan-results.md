@@ -6,7 +6,7 @@ In this section, you will first view a scan that has already been ran on your en
 
     ![alt text](../images/2.2.1.png)
 
-2. Mkae sure you are on the SCC instance that matches your group number **(A)**. Select **Attachments (B)**. 
+2. Make sure you are on the SCC instance that matches your group number **(A)**. Select **Attachments (B)**
 ![alt text](../images/2.2.2-n.png)
 
 3. View your scan results. Select the **triple dot (A)** on the right-hand side of your attachment and select **View Scan Results (B)**.
