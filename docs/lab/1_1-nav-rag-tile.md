@@ -15,7 +15,7 @@ Retrieval augmented generation (RAG) is an AI framework for improving the qualit
 
 3.	Find and select the **Retrieval Augmented Generation Pattern** 
 
-![alt text](../images/1.1.3.png)
+![alt text](../images/tile.png)
 
 Scroll down and take a minute to review the **Architecture Overview** tab. This will give you an even deeper understanding of what is deployed.
 
