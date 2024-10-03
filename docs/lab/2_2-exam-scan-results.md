@@ -6,7 +6,7 @@ In this section, you will first view a scan that has already been ran on your en
 
     ![alt text](../images/2.2.1.png)
 
-2. Select **Attachments (A)**. 
+2. Mkae sure you are on the SCC instance that matches your group number **(A)**. Select **Attachments (B)**. 
 ![alt text](../images/2.2.2-n.png)
 
 3. View your scan results. Select the **triple dot (A)** on the right-hand side of your attachment and select **View Scan Results (B)**.
@@ -17,11 +17,11 @@ In this section, you will first view a scan that has already been ran on your en
 
     ![alt text](../images/2.2.4-n.png)
 
-5. View the failed rules at the bottom on the Overview page and locate the Component ***Cloud Object Storage*** **(A)** <br>
+5. In the list of noncompliant resources, find the project that matches your group number. For example **rag-lab-00-RAG-sample-project (A)**. <br>
 
     ![alt text](../images/2.2.5-n.png)
 
-    You should see a rule that has failed with the Description: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs **(A)**
+   Expand the resource **(A)** You should see a rule this rule: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs **(B)**
 
     ![alt text](../images/2.2.5-rule-n.png)
 
