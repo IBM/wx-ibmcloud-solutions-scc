@@ -11,7 +11,3 @@
 
 4. Expand the project to view all the deployments.
 ![alt text](../images/1.3.4-n.png)
-
-5.	Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list.**  Filter for your resource group under **Group (B)** to view all resource deployed by the DA.
-![alt text](<../images/1.3.5-a.png>)
-![alt text](<../images/1.3.5-b.png>)
