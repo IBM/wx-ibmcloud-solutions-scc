@@ -16,12 +16,16 @@ Now that you have remediated the issue, lets go back and rerun the scan and obve
 
 4. Select **Run scan (A)**
 
-    ![alt text](../images/2.4.44-n.png)
+    ![alt text](../images/2.4.4-n.png)
 
-5. Select the most recent scan **(A)**
+5. Once the scan has finished running,  select the **triple dot (A)** and select **View scan results(B)**.
 
     ![alt text](../images/2.4.5-n.png)
 
-6. Observe the changes in the overall compliance score.
+6. Select the most recent scan **(A)**
 
     ![alt text](../images/2.4.6-n.png)
+
+7. Observe the changes in the overall compliance score.
+
+    ![alt text](../images/2.4.7-n.png)
