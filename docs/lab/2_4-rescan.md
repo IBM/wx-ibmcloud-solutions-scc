@@ -10,13 +10,13 @@ Now that you have remediated the issue, lets go back and rerun the scan and obve
 
     ![alt text](../images/2.4.2-n.png)
 
-3. On your attachment select the **triple dot (A)** and select **View scan results (B)**.
+3. On your attachment select the **triple dot (A)** and select **Run scan(B)**.
 
     ![alt text](../images/2.4.3-n.png)
 
 4. Select **Run scan (A)**
 
-    ![alt text](../images/2.4.4-n.png)
+    ![alt text](../images/2.4.44-n.png)
 
 5. Select the most recent scan **(A)**
 
