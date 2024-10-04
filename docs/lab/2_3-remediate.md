@@ -13,7 +13,7 @@ We will now walk you through how to remediate this failed rule.
 3. Identify your rule based off of your group number **(A)**. 
     Example: COS endpoint restriction for rag-lab-## <br>
 
-    ![alt text](../images/2.3.2-n.png)
+    ![alt text](../images/2.3.3-n.png)
 
 4. Click the **triple dot (A)** to the right of your rule and select **Edit (B)**. <br>
 
