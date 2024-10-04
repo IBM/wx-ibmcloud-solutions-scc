@@ -4,20 +4,24 @@ Now that you have remediated the issue, lets go back and rerun the scan and obve
 
 1. Expand the **Navigation menu (A)** and hover over **Security and Compliance Center (B)** and select **Dashboard (C)**. <br>
 
-    ADD SCREENSHOT 
+![alt text](../images/2.4.1-n.png)
 
-2. On your attachment select the **triple dot (A)** and select **Run scan (B)**. The scan will take about 5 minutes to run. UPDATE SCREENSHOT
+2. Select **Attachment (A)**
 
-    ![alt text](../images/2.4.1.png)
+    ![alt text](../images/2.4.2-n.png)
 
 3. On your attachment select the **triple dot (A)** and select **View scan results (B)**. UPDATE SCREENSHOT 
 
-    ![alt text](../images/2.4.2.png)
+    ![alt text](../images/2.4.3-n.png)
 
-4. Select the most recent scan **(A)** UPDATE SCREENSHOT
+4. Select **Run scan (A)**
 
-    ![alt text](../images/2.4.3.png)
+    ![alt text](../images/2.4.4-n.png)
 
-5. Observe the changes in the overall compliance score. UPDATE SCREENSHOT
+5. Select the most recent scan **(A)** UPDATE SCREENSHOT
 
-    ![alt text](../images/2.4.4.png)
+    ![alt text](../images/2.4.5-n.png)
+
+6. Observe the changes in the overall compliance score. UPDATE SCREENSHOT
+
+    ![alt text](../images/2.4.6.png)
