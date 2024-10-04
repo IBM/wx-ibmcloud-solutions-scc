@@ -4,7 +4,7 @@ Now that you have remediated the issue, lets go back and rerun the scan and obve
 
 1. Expand the **Navigation menu (A)** and hover over **Security and Compliance Center (B)** and select **Dashboard (C)**. <br>
 
-![alt text](../images/2.4.1-n.png)
+    ![alt text](../images/2.4.1-n.png)
 
 2. Select **Attachment (A)**
 
