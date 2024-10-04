@@ -18,7 +18,7 @@ Now that you have remediated the issue, lets go back and rerun the scan and obve
 
     ![alt text](../images/2.4.4-n.png)
 
-5. Once the scan has finished running,  select the **triple dot (A)** and select **View scan results(B)**.
+5. Once the scan has finished running, select the **triple dot (A)** and select **View scan results(B)**.
 
     ![alt text](../images/2.4.5-n.png)
 
