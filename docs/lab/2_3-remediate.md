@@ -11,7 +11,7 @@ We will now walk you through how to remediate this failed rule.
     ![alt text](../images/2.3.2-n.png)
 
 3. Identify your rule based off of your group number **(A)**. 
-    Example: COS endpoint restriction for rag-lab-## <br>
+    Example: COS endpoint restriction for rag-lab-00 <br>
 
     ![alt text](../images/2.3.3-n.png)
 
