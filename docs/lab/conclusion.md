@@ -13,7 +13,7 @@ Participants gained a deeper understanding of the complexities involved in deplo
 
 Please join us for our second session **Automated generative AI deployments on IBM Cloud - Deployable Architecture (1101)** which will take place on Thursday October 24th at 9:00 AM <br>
 
-Scan the QR Code to add to your schedule! 
+Scan the QR Code to add to your schedule!
 
 ![alt text](../images/1101-qr.png)
 
