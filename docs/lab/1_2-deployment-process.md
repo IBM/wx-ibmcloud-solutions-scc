@@ -7,8 +7,13 @@ The DA is designed to be highly customizable, allowing users to add or remove co
 By leveraging automation, the DA enables the rapid deployment of the entire solution stack. This significantly reduces the time and effort required to set up the infrastructure, allowing for deployment within hours.
 
 ## High-Level Workflow
-1. **Initialization:** Start with configuring the initial settings and parameters according to the specific requirements of the RAG DA.
-2. **Infrastructure and Service Deployed:** Automatically provision the necessary infrastructure components using IaC tools. Deploy serverless services, AI models, data platforms, and security measures using automated scripts and CI/CD pipelines.
-3. **Interact with chat bot:** Engage with the deployed chat bot. Leveraging retrieval augmented generation the home loan chat bot enhances user interaction by providing tailored responses.  
-4. **Monitoring and Management:** Monitoring tools are provisioned to oversee the performance and security of the deployed services, ensuring continuous operation and adherence to compliance standards.
+
+1. **Review Deployed DA Stack**:  
+Participants begin by reviewing the deployed Digital Automation (DA) stack within the lab environment.
+
+2. **Review Deployed Resources**:  
+participants will review the key resources within the account, such as Toolchains, Code Engine, and Security and Compliance Center (SCC), to understand the infrastructure and services in place.
+
+3. **Identify and Remediate a Resource using SCC**:  
+In this step, participants will identify a failed or non-compliant resource using SCC. They will review a completed SCC scan and follow remediation steps to bring the resource into compliance.
 

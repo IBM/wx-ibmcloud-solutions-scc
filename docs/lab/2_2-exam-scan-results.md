@@ -26,5 +26,4 @@ For example **rag-lab-00-RAG-sample-project (A)**. <br>
 
     ![alt text](../images/2.2.5-rule-n.png)
 
-
 The reason this rule is failing is because the context-based restrictions rule is not configured with private endpoint-allowed IP addresses for Cloud Object Storage. We will now go through the steps on how to remediate this issue. 
