@@ -6,26 +6,35 @@ In this section we will be viewing the already deployed stack. We will take a cl
 
 ---
 
-1. In the Projects view, inside your rag-stack-lab-## that corresponds to your group number **(A)**. <br> 
+1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
+![alt text](../images/1.3.1-n.png)
+
+2. Select the **deployed project (A)**
+![alt text](../images/1.3.2-n.png)
+
+3. Switch to the **Configurations tab (A)**
+![alt text](../images/1.3.3-n.png)
+
+4. In the Projects view, inside your rag-stack-lab-## that corresponds to your group number **(A)**. <br> 
 For example: rag-lab-00
 
     Click the **arrow (B)** to expand the list of components. You are able to expand the colum size so you are able to see the full name of the components. Find the **Essential Security - Security Compliance Center** and select **Deployed details (C)**.  
-    ![alt text](../images/1.3.1-a-n.png)
+    ![alt text](../images/1.3.4-a-n.png)
 
     b. Select the arrow **(A)** to expand the Validation successful section. Click the green number that indicates the number of resources created to view the resources **(B)**. 
-    ![alt text](../images/1.3.1-b-n.png)
+    ![alt text](../images/1.3.4-b-n.png)
 
     c. Here is a list of created resources by that specific section of the DA. 
-    ![alt text](../images/1.3.1-c-n.png)
+    ![alt text](../images/1.3.4-c-n.png)
 
     Repeat the same steps for the **Workload - Sample RAG App Configurations** section of the DA. Use the breadcrumbs at the top left to navigate back to the project. 
 
-2. Now let's look at the list of resources that have been created by the DA. <br>
+5. Now let's look at the list of resources that have been created by the DA. <br>
     
     Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Resource list (B)** from the Navigation menu. <br>
-![alt text](<../images/1.3.2-a-n.png>)
+![alt text](<../images/1.3.5-a-n.png>)
 
     Filter for your resource group (for example: rag-lab-00-service-rg) and **rag-common-services** under **Group (A)** to view all resources deployed by the DA.  <br>
 
     You may have resources with a starting name of MY-lab, these are the resources that are currently being created by the DA you deployed at the beginning of the lab. 
-![alt text](../images/1.3.2-n-b.png)
+![alt text](../images/1.3.5-n-b.png)
