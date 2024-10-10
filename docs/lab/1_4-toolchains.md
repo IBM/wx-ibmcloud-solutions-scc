@@ -23,5 +23,13 @@ The (CD) pipeline supports continuous deployment of the application, including e
 5. Select the most recent successful pipeline run
 ![alt text](../images/1.4.5-n.png)
 
-6. Review the steps of the CI pipeline. 
+6. You are now looking at the steps taken by the CI pipeline. 
 ![alt text](../images/1.4.6-n.png)
+
+7. Click on **code-compliance-checks (A)**
+![alt text](../images/1.4.7-n.png)
+
+8. Select **run-stage (A)**
+![alt text](../images/1.4.8-n.png)
+
+9. ADD TEXT REGARDING WHAT THIS SECTION OF THE PIPELINE DOES
