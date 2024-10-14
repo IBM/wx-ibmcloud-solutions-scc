@@ -13,6 +13,8 @@ Participants gained a deeper understanding of the complexities involved in deplo
 
 Please join us for our second session **Automated generative AI deployments on IBM Cloud - Deployable Architecture (1101)** which will take place on Thursday October 24th at 9:00 AM <br>
 
+Learn how you can use a RAG pattern Deployable Architecture to accelerate client TTV and improve ROI for a complete Generative AI solution (watsonx platform and AI Assistants, supporting services, and client-managed applications/data) while ensuring security and compliance.
+
 Scan the QR Code to add to your schedule!
 
 ![alt text](../images/1101-qr.png)
