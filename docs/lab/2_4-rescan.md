@@ -14,7 +14,7 @@ Now that you have remediated the issue, lets go back and rerun the scan and obve
 
     ![alt text](../images/2.4.3-n.png)
 
-4. Select **Run scan (A)**
+4. Select **Run scan (A)**. The scan will take 5-7 minutes to complete. 
 
     ![alt text](../images/2.4.4-n.png)
 

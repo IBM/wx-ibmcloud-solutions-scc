@@ -18,3 +18,5 @@ Let's see the RAG Pattern Gen AI application in action: Assume you're a prospect
 * How much does it cost to get a bank loan?
 
 ![alt text](../images/1.6.3-n.png)
+
+**Tip:** If you receive a response of "I searched my knowledge base, but did not find anything related to your query", try asking the question again. 
