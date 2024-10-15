@@ -1,6 +1,6 @@
 # Remediate Failed Rule
 
-We will now walk you through how to remediate this failed rule. 
+We will now walk you through how to remediate this failed rule. All lab groups are encouraged to complete specific tasks in the to achieve 100% compliance in the security scan.
 
 1. At the top of the screen find and expand the **Navigation menu (A)** and select **Context-based restrictions (B)**.
 

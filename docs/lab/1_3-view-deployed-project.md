@@ -28,6 +28,12 @@ For example: rag-lab-00
     c. Here is a list of created resources by that specific section of the DA. 
     ![alt text](../images/1.3.4-c-n.png)
 
+    The following two items are created in the **Essential Security - Security Compliance Center** section of the DA:
+
+    - **COS Instance (ibm_resource_instance.cos_instance):** An IBM Cloud Object Storage (COS) instance provides scalable and secure storage for data in the cloud.
+  
+    - **COS Bucket (ibm_cos_bucket.cos_bucket):** A COS bucket is a logical container within a COS instance where data is stored.
+
     Repeat the same steps for the **Workload - Sample RAG App Configurations** section of the DA. Use the breadcrumbs at the top left to navigate back to the project. 
 
 5. Now let's look at the list of resources that have been created by the DA. <br>
