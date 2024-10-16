@@ -2,6 +2,8 @@
 
 Now that you have remediated the issue, lets go back and rerun the scan and obverse the improvement in compliance.
 
+---
+
 1. Expand the **Navigation menu (A)** and then hover over **Security (B)** and select **Resources (C).**
 
     ![alt text](../images/2.4.1-new.png)

@@ -2,6 +2,8 @@
 
 In this section, you will first view a scan that has already been ran on your environment. This scan will provide a report highlighting any resources that are not compliant with the enforced security and compliance policies, based on the IBM Cloud Framework for Financial Services and AI ICT Guardrails profiles. The goal is to identify which resource needs attention before moving on to resolving these issue.
 
+---
+
 1. Expand the **Navigation menu (A)** and then hover over **Security (B)** and select **Resources (C).**
 
     ![alt text](../images/2.2.1-new.png)
