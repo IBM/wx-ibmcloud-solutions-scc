@@ -16,23 +16,23 @@ For example: rag-lab-00-base-security-services-scc
     ![alt text](../images/2.2.3-new.png)
 
 4. Make sure you are on the SCC instance that matches your group number **(A)**. Select **Attachments (B)**
-![alt text](../images/2.2.4-n.png)
+    ![alt text](../images/2.2.4-new.png)
 
 5. View your scan results. Select the **triple dot (A)** on the right-hand side of your attachment and select **View Scan Results (B)**.
 
-    ![alt text](../images/2.2.5-n.png)
+    ![alt text](../images/2.2.5-new.png)
 
 6. Click your scan to open the report **(A)**
 
-    ![alt text](../images/2.2.6-n.png)
+    ![alt text](../images/2.2.6-new.png)
 
 7. In the list of noncompliant resources, find the project that matches your group number. <br>
 For example **rag-lab-00-RAG-sample-project (A)**. <br>
 
-    ![alt text](../images/2.2.7-n.png)
+    ![alt text](../images/2.2.7-new.png)
 
    Expand the resource **(A)** You should see a rule this rule: Check whether Cloud Object Storage can be accessed only through a private endpoint (Context-based restrictions or service) and allowed IPs **(B)**
 
-    ![alt text](../images/2.2.7-rule-n.png)
+    ![alt text](../images/2.2.7-rule-new.png)
 
 The reason this rule is failing is because the context-based restrictions rule is not configured with private endpoint-allowed IP addresses for Cloud Object Storage. We will now go through the steps on how to remediate this issue. 
