@@ -17,7 +17,7 @@ The (CD) pipeline supports continuous deployment of the application, including e
 
 - **Location: Dallas (B)**
 
--  Select the CI toolchain **rag-lab-##-rag-sample-app-CI-Toolchain (C)** (where ## is replaced with your group number.) <br>
+-  Select the CI toolchain **rag-lab-##-rag-sample-app-CI-Toolchain (C)** (where ## is replaced with your group number). <br>
     - For example: rag-lab-00-rag-sample-app-CI-Toolchain
 
 ![alt text](../images/1.4.2-n.png)
