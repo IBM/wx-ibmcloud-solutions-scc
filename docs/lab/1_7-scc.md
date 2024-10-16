@@ -4,7 +4,7 @@ The Security and Compliance Center (SCC) enforces policies through code, deploys
 
 1. Expand the **Navigation menu (A)** and then hover over **Security (B)** and select **Resources (C).**
 
-![alt text](../images/1.7.1-n.png)
+![alt text](../images/1.7.1-new.png)
 
 2. Select the resource **rag-lab-##-base-security-services-scc (A)** (where ## is replaced with your group number). <br>
 For example: rag-lab-00-base-security-services-scc
