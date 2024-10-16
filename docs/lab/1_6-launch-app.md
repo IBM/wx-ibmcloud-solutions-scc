@@ -12,7 +12,6 @@ Let's see the RAG Pattern Gen AI application in action: Assume you're a prospect
 
 3. Ask the virtual assistant questions. Here are some example questions to get you started.
 * What is a conventional loan?
-* What is arm?
 * Is arm a good choice? 
 * What loan should I get for an expensive property?
 * How much does it cost to get a bank loan?
