@@ -41,3 +41,6 @@ The (CD) pipeline supports continuous deployment of the application, including e
 ![alt text](../images/1.4.8-n.png)
 
 9. The **code-compliance-checks** stage of the CI pipeline is used to detect potential vulnerabilities in the code and ensure that the code adheres to specific standards and guidelines before it is built or deployed. 
+
+
+![alt text](../images/1.5.1-n.png)
