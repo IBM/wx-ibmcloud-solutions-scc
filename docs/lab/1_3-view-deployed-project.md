@@ -9,8 +9,8 @@ In this section we will be viewing the already deployed stack. We will take a cl
 1. Expand the **Navigation menu (A)** on the upper right-hand corner. Select **Projects (B)**
 ![alt text](../images/1.3.1-n.png)
 
-2. Select the **deployed project (A)** that matches your group number. <br>
-For example: rag-lab-00
+2. Select the **deployed project (A)** that matches your group number (rag-stack-lab-##, where ## is replaced with your group number). <br>
+For example: rag-stack-lab-00
 ![alt text](../images/1.3.2-n.png)
 
 3. Switch to the **Configurations tab (A)**
