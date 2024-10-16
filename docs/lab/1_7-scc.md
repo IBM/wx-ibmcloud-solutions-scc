@@ -2,7 +2,7 @@
 
 The Security and Compliance Center (SCC) enforces policies through code, deploys secure data and workload controls, and evaluates security and compliance posture. This is supported by two distinct profiles: the IBM Cloud Framework for Financial Services and AI ICT Guardrails. These profiles contain controls that ensure compliance with industry-specific or regulatory requirements, enhancing the overall security and compliance framework.
 
-1. Expand the **Navigation menu (A)** and then hover over **Security (B)** and select **Resources (C)**.
+1. Expand the **Navigation menu (A)** and then hover over **Security (B)** and select **Resources (C).**
 
 ![alt text](../images/1.7.1-n.png)
 
