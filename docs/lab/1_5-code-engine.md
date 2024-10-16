@@ -7,7 +7,7 @@ The RAG DA deploys the sample Bank Loan application on IBM Code Engine. Code Eng
 
 In IBM Cloud Code Engine, **projects** are a way to organize and manage resources, such as applications and builds. They act as containers that group related resources together, making it easier to manage and control access to them. 
 
-2. Select the rag-lab-##-Generative_AI_Sample_App_CI_Project (where ## is replaced with your group number). **(A)** <br>
+2. Select the **rag-lab-##-Generative_AI_Sample_App_CI_Project (where ## is replaced with your group number) (A)** <br>
 For example: rag-lab-00-Generative-AI-Sample_App_CI_Project. 
 ![alt text](../images/1.5.2-n.png)
 
