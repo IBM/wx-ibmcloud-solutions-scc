@@ -1,5 +1,5 @@
 - [Lab Sign in](https://ibm.biz/rag-lab-2024)
-
+---
 - [🔎 Overview](README.md)
 - [🏎️ Getting started!](getting-started.md)
 - 1️⃣ Understand Deployed Resources
