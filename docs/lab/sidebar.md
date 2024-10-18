@@ -1,3 +1,5 @@
+- [Lab Sign in](https://ibm.biz/rag-lab-2024)
+
 - [🔎 Overview](README.md)
 - [🏎️ Getting started!](getting-started.md)
 - 1️⃣ Understand Deployed Resources
@@ -14,6 +16,6 @@
     * [2.3 Remediate Noncompliant Resource](2_3-remediate.md) 
     * [2.4 Rescan and Validate Compliance](2_4-rescan.md) 
 - [🏁 Conclusion](conclusion.md)
-- [Lab Sign in](https://ibm.biz/rag-lab-2024)
+
 
 
