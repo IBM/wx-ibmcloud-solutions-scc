@@ -14,9 +14,7 @@
     * [2.3 Remediate Noncompliant Resource](2_3-remediate.md) 
     * [2.4 Rescan and Validate Compliance](2_4-rescan.md) 
 - [🏁 Conclusion](conclusion.md)
-- **Learn more**
-- [Lab Sign in](https://ibm.biz/txc-XXX-invite)
-- [Console](https://cloud.ibm.com/)
-- [Documentation](https://cloud.ibm.com/docs/)
+- **---**
+- [Lab Sign in](https://ibm.biz/rag-lab-2024)
 
 
